@@ -1,0 +1,93 @@
+@media (max-width: 1500px) {
+  .slider-img {
+    width: 450px; } }
+
+@media (max-width: 1199px) {
+  .slider-img {
+    width: 350px; } }
+
+@media (max-width: 992px) {
+  .nav__menu > li {
+    padding-right: 20px; }
+  .slider-img {
+    width: 295px; }
+  .slider-title {
+    font-size: 60px; }
+  .slider-item {
+    padding: 60px 0; }
+  .social-info__text {
+    font-size: 16px; }
+  .social-info__block {
+    height: 220px; }
+  .bx-wrapper .bx-pager,
+  .bx-wrapper .bx-controls-auto {
+    width: 730px;
+    margin-left: -365px;
+    bottom: 20px; }
+  .slider-text {
+    width: 450px; }
+  .bx-wrapper .bx-controls-direction a {
+    display: none; }
+  .logo {
+    margin-left: 0; } }
+
+@media (min-width: 768px) {
+  .visible-xs {
+    display: none !important; } }
+
+@media (max-width: 767px) {
+  .hidden-xs {
+    display: none; }
+  h1 {
+    font-size: 36px; }
+  .pagination {
+    padding: 20px 0; }
+  .article-info > div {
+    display: block; }
+    .article-info > div.article-date {
+      margin-bottom: 20px; }
+  table td:nth-child(3),
+  table td:last-child {
+    display: none; }
+  .article {
+    padding: 20px 0; }
+  .subscribe a {
+    margin-right: 10px; }
+  .search {
+    width: auto;
+    min-height: 35px; }
+  .search__submit {
+    top: 6px; }
+  .search__input {
+    display: none; }
+  .social-info {
+    margin-bottom: 0; }
+  .social-info__item {
+    margin-bottom: 20px; }
+  .footer__contacts .pull-left {
+    float: none !important; }
+  .footer__list {
+    margin-bottom: 30px;
+    padding-right: 0; }
+  .pagination__list li.pagination__page {
+    padding: 0 10px; }
+  .grid .col-sm-4 {
+    padding: 0; }
+  .post-wrapp {
+    margin-left: 0; }
+  .slider-text {
+    width: 100%; }
+  .slider-item {
+    overflow: hidden;
+    position: relative; }
+  .slider-img {
+    z-index: -1;
+    right: -180px; }
+  .bx-wrapper .bx-pager,
+  .bx-wrapper .bx-controls-auto {
+    width: 100%;
+    margin-left: 0;
+    left: 0;
+    padding: 0 10px; }
+  .slider-title {
+    font-size: 30px; } }

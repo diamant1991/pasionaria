@@ -1,0 +1,1 @@
+$("#slider").length&&$("#slider").bxSlider({});
