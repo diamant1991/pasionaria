@@ -1063,6 +1063,10 @@ h4 {
 h5 {
   font-size: 14px; }
 
+.slider {
+  overflow: hidden;
+  position: relative; }
+
 .nav {
   padding-bottom: 20px; }
   .nav__menu {
